@@ -1,0 +1,16 @@
+<?xml version='1.0'?>
+<PapyrusProject xmlns="HellowWorldProject.xsd"
+  Flags="Institute_Papyrus_Flags.flg"
+  Output="C:\Games\fo4_modding\fo4_helloWorld"
+  Optimize="false"
+  Release="false"
+  Final="false"
+>
+  <Imports>
+    <Import>C:\Games\fo4_modding\fo4_helloWorld</Import>
+    <Import>C:\Steam\steamapps\common\Fallout 4\Data\Scripts\Source\Base</Import>
+  </Imports>
+  <Scripts>
+    <Script>HW:HelloWorldScript</Script>
+  </Scripts>
+</PapyrusProject>
